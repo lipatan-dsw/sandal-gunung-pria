@@ -1,5 +1,5 @@
 title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
-Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 045 Murah,sandal-gunung-hiking-outdoor-pria-jj-045,"
+Jual Sandal Gunung / Hiking / Outdoor Pria - RF 753 Murah,rf-753,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -15,19 +15,19 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 045 Murah,sandal-gunung-hiking-o
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -47,7 +47,7 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 045 Murah,sandal-gunung-hiking-o
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 045 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 045<br/>Warna : COKLAT<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RF 753 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan SINTETIS.<br/>Kode : RF 753<br/>Warna : HITAM<br/>Bahan : SINTETIS<br/>Ukuran : 39 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -60,11 +60,9 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 045 Murah,sandal-gunung-hiking-o
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -72,8 +70,8 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 045 Murah,sandal-gunung-hiking-o
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/356-jj-045.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-045-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-045-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-045-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-045-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-045-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 045,Rp 93.400,Rp 109.900,Rp 16.500,JJ 045,Baru
-Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 081 Murah,sandal-gunung-hiking-outdoor-pria-jj-081,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan SINTETIS, Ukuran 39 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/rf-753.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rf-753-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rf-753-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rf-753-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rf-753-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rf-753-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RF 753,Rp 98.900,Rp 113.900,Rp 15.000,RF 753,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 045 Murah,jj-045,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -89,19 +87,19 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 081 Murah,sandal-gunung-hiking-o
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -121,7 +119,7 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 081 Murah,sandal-gunung-hiking-o
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 081 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 081<br/>Warna : ABU ABU<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 045 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 045<br/>Warna : COKLAT<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -134,11 +132,9 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 081 Murah,sandal-gunung-hiking-o
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -146,8 +142,8 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 081 Murah,sandal-gunung-hiking-o
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/357-jj-081.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-081-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-081-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-081-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-081-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-081-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 081,Rp 93.400,Rp 109.900,Rp 16.500,JJ 081,Baru
-Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 110 Murah,sandal-gunung-hiking-outdoor-pria-jj-110,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/jj-045.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-045-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-045-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-045-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-045-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-045-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 045,Rp 95.900,Rp 110.900,Rp 15.000,JJ 045,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - DF 051 Murah,df-051,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -163,19 +159,19 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 110 Murah,sandal-gunung-hiking-o
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -195,7 +191,7 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 110 Murah,sandal-gunung-hiking-o
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 110 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 110<br/>Warna : MERAH<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - DF 051 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : DF 051<br/>Warna : ABU KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -208,11 +204,9 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 110 Murah,sandal-gunung-hiking-o
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -220,8 +214,8 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 110 Murah,sandal-gunung-hiking-o
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna MERAH",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/358-jj-110.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-110-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-110-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-110-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-110-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-110-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 110,Rp 93.400,Rp 109.900,Rp 16.500,JJ 110,Baru
-Jual Sandal Gunung / Hiking / Outdoor Pria - DF 047 Murah,sandal-gunung-hiking-outdoor-pria-df-047,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/df-051.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-051-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-051-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-051-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-051-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-051-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - DF 051,Rp 87.900,Rp 101.900,Rp 14.000,DF 051,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - DF 047 Murah,df-047,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -237,19 +231,19 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - DF 047 Murah,sandal-gunung-hiking-o
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -269,7 +263,7 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - DF 047 Murah,sandal-gunung-hiking-o
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Outdoor Pria - DF 047 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : DF 047<br/>Warna : COKLAT<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - DF 047 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : DF 047<br/>Warna : COKLAT<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1200 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -282,11 +276,9 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - DF 047 Murah,sandal-gunung-hiking-o
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -294,8 +286,8 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - DF 047 Murah,sandal-gunung-hiking-o
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/359-df-047.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/df-047-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/df-047-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/df-047-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/df-047-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/df-047-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - DF 047,Rp 87.400,Rp 102.900,Rp 15.500,DF 047,Baru
-Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 109 Murah,sandal-gunung-hiking-outdoor-pria-jj-109,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/df-047.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-047-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-047-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-047-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-047-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/df-047-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - DF 047,Rp 87.900,Rp 101.900,Rp 14.000,DF 047,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 111 Murah,jj-111,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -311,19 +303,19 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 109 Murah,sandal-gunung-hiking-o
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -343,7 +335,7 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 109 Murah,sandal-gunung-hiking-o
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 109 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 109<br/>Warna : MERAH KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 111 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 111<br/>Warna : COKLAT ORANGE<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -356,11 +348,9 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 109 Murah,sandal-gunung-hiking-o
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -368,8 +358,8 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 109 Murah,sandal-gunung-hiking-o
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/360-jj-109.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-109-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-109-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-109-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-109-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-109-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 109,Rp 93.400,Rp 109.900,Rp 16.500,JJ 109,Baru
-Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 111 Murah,sandal-gunung-hiking-outdoor-pria-jj-111,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna COKLAT ORANGE",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/jj-111.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-111-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-111-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-111-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-111-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-111-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 111,Rp 94.900,Rp 109.900,Rp 15.000,JJ 111,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 061 Murah,jj-061,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -385,19 +375,19 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 111 Murah,sandal-gunung-hiking-o
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -417,7 +407,7 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 111 Murah,sandal-gunung-hiking-o
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 111 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 111<br/>Warna : COKLAT ORANGE<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 061 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 061<br/>Warna : HITAM<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -430,11 +420,9 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 111 Murah,sandal-gunung-hiking-o
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -442,8 +430,8 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 111 Murah,sandal-gunung-hiking-o
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna COKLAT ORANGE",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/361-jj-111.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-111-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-111-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-111-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-111-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-111-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 111,Rp 94.900,Rp 111.900,Rp 17.000,JJ 111,Baru
-Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 061 Murah,sandal-gunung-hiking-outdoor-pria-jj-061,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/jj-061.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-061-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-061-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-061-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-061-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-061-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 061,Rp 95.900,Rp 110.900,Rp 15.000,JJ 061,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 081 Murah,jj-081,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -459,19 +447,19 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 061 Murah,sandal-gunung-hiking-o
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -491,7 +479,7 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 061 Murah,sandal-gunung-hiking-o
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 061 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 061<br/>Warna : HITAM<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 081 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 081<br/>Warna : ABU ABU<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -504,11 +492,9 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 061 Murah,sandal-gunung-hiking-o
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -516,8 +502,8 @@ Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 061 Murah,sandal-gunung-hiking-o
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/362-jj-061.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-061-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-061-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-061-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-061-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/jj-061-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 061,Rp 93.400,Rp 109.900,Rp 16.500,JJ 061,Baru
-Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1148 Murah,sandal-gunung-hiking-kasual-pria-rjj-1148,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/jj-081.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-081-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-081-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-081-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-081-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-081-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 081,Rp 95.900,Rp 110.900,Rp 15.000,JJ 081,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 121 Murah,jj-121,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -533,19 +519,19 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1148 Murah,sandal-gunung-hiking-
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -565,7 +551,7 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1148 Murah,sandal-gunung-hiking-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Kasual Pria - RJJ 1148 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RJJ 1148<br/>Warna : HITAM<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 121 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 121<br/>Warna : ABU KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -578,11 +564,9 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1148 Murah,sandal-gunung-hiking-
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -590,8 +574,8 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1148 Murah,sandal-gunung-hiking-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/258-rjj-1148.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1148-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1148-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1148-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1148-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1148-e.jpg,Sandal Gunung / Hiking / Kasual Pria - RJJ 1148,Rp 84.900,Rp 99.900,Rp 15.000,RJJ 1148,Baru
-Jual Sandal Gunung / Hiking / Kasual Pria - RLR 320 Murah,sandal-gunung-hiking-kasual-pria-rlr-320,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/jj-121.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-121-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-121-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-121-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-121-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-121-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 121,Rp 96.900,Rp 111.900,Rp 15.000,JJ 121,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 109 Murah,jj-109,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -607,19 +591,19 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RLR 320 Murah,sandal-gunung-hiking-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -639,7 +623,7 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RLR 320 Murah,sandal-gunung-hiking-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Kasual Pria - RLR 320 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RLR 320<br/>Warna : HITAM KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 109 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 109<br/>Warna : MERAH KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -652,11 +636,9 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RLR 320 Murah,sandal-gunung-hiking-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -664,8 +646,8 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RLR 320 Murah,sandal-gunung-hiking-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/259-rlr-320.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-320-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-320-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-320-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-320-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-320-e.jpg,Sandal Gunung / Hiking / Kasual Pria - RLR 320,Rp 83.400,Rp 97.900,Rp 14.500,RLR 320,Baru
-Jual Sandal Gunung / Hiking / Kasual Pria - RLR 303 Murah,sandal-gunung-hiking-kasual-pria-rlr-303,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/jj-109.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-109-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-109-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-109-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-109-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-109-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 109,Rp 95.900,Rp 110.900,Rp 15.000,JJ 109,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - JJ 110 Murah,jj-110,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -681,19 +663,19 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RLR 303 Murah,sandal-gunung-hiking-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -713,7 +695,7 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RLR 303 Murah,sandal-gunung-hiking-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Kasual Pria - RLR 303 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RLR 303<br/>Warna : ABU KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - JJ 110 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : JJ 110<br/>Warna : MERAH<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -726,11 +708,9 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RLR 303 Murah,sandal-gunung-hiking-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -738,8 +718,8 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RLR 303 Murah,sandal-gunung-hiking-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/260-rlr-303.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-303-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-303-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-303-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-303-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rlr-303-e.jpg,Sandal Gunung / Hiking / Kasual Pria - RLR 303,Rp 83.400,Rp 97.900,Rp 14.500,RLR 303,Baru
-Jual Sandal Gunung / Hiking / Kasual Pria - RNO 083 Murah,sandal-gunung-hiking-kasual-pria-rno-083,"
+     </div><!--/category-tab-->",2018-02-25,html,sandal-gunung-pria,catenzo,sandal-gunung-pria,catenzo,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna MERAH",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/jj-110.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-110-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-110-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-110-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-110-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/jj-110-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - JJ 110,Rp 95.900,Rp 110.900,Rp 15.000,JJ 110,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - RJJ 1148 Murah,rjj-1148,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -755,19 +735,19 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RNO 083 Murah,sandal-gunung-hiking-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -787,7 +767,7 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RNO 083 Murah,sandal-gunung-hiking-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Kasual Pria - RNO 083 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RNO 083<br/>Warna : HITAM KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RJJ 1148 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RJJ 1148<br/>Warna : HITAM<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -800,11 +780,9 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RNO 083 Murah,sandal-gunung-hiking-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -812,8 +790,8 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RNO 083 Murah,sandal-gunung-hiking-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/261-rno-083.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rno-083-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rno-083-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rno-083-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rno-083-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rno-083-e.jpg,Sandal Gunung / Hiking / Kasual Pria - RNO 083,Rp 91.900,Rp 107.900,Rp 16.000,RNO 083,Baru
-Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1147 Murah,sandal-gunung-hiking-kasual-pria-rjj-1147,"
+     </div><!--/category-tab-->",2018-02-26,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rjj-1148.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1148-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1148-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1148-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1148-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1148-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RJJ 1148,Rp 89.900,Rp 103.900,Rp 14.000,RJJ 1148,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - RJJ 1152 Murah,rjj-1152,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -829,19 +807,19 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1147 Murah,sandal-gunung-hiking-
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -861,7 +839,7 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1147 Murah,sandal-gunung-hiking-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Kasual Pria - RJJ 1147 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RJJ 1147<br/>Warna : COKLAT<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RJJ 1152 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RJJ 1152<br/>Warna : ABU KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -874,11 +852,9 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1147 Murah,sandal-gunung-hiking-
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -886,8 +862,8 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RJJ 1147 Murah,sandal-gunung-hiking-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/262-rjj-1147.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1147-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1147-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1147-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1147-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rjj-1147-e.jpg,Sandal Gunung / Hiking / Kasual Pria - RJJ 1147,Rp 84.900,Rp 99.900,Rp 15.000,RJJ 1147,Baru
-Jual Sandal Gunung / Hiking / Kasual Pria - RDF 026 Murah,sandal-gunung-hiking-kasual-pria-rdf-026,"
+     </div><!--/category-tab-->",2018-02-26,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rjj-1152.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1152-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1152-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1152-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1152-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1152-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RJJ 1152,Rp 89.900,Rp 103.900,Rp 14.000,RJJ 1152,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - RLR 303 Murah,rlr-303,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -903,19 +879,19 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RDF 026 Murah,sandal-gunung-hiking-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -935,7 +911,7 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RDF 026 Murah,sandal-gunung-hiking-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sandal Gunung / Hiking / Kasual Pria - RDF 026 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RDF 026<br/>Warna : HITAM<br/>Bahan : WEBBING<br/>Ukuran : 38 - 43<br/>Berat : 0.9 kg<br/>Info Lainnya = SOL : KARET<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RLR 303 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RLR 303<br/>Warna : ABU KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -948,11 +924,9 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RDF 026 Murah,sandal-gunung-hiking-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -960,4 +934,364 @@ Jual Sandal Gunung / Hiking / Kasual Pria - RDF 026 Murah,sandal-gunung-hiking-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/263-rdf-026.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdf-026-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdf-026-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdf-026-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdf-026-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdf-026-e.jpg,Sandal Gunung / Hiking / Kasual Pria - RDF 026,Rp 84.900,Rp 99.900,Rp 15.000,RDF 026,Baru
+     </div><!--/category-tab-->",2018-02-26,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rlr-303.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-303-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-303-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-303-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-303-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-303-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RLR 303,Rp 87.900,Rp 101.900,Rp 14.000,RLR 303,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - RJJ 1147 Murah,rjj-1147,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RJJ 1147 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RJJ 1147<br/>Warna : COKLAT<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-26,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rjj-1147.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1147-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1147-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1147-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1147-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rjj-1147-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RJJ 1147,Rp 89.900,Rp 103.900,Rp 14.000,RJJ 1147,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - RDF 030 Murah,rdf-030,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RDF 030 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RDF 030<br/>Warna : ABU ABU<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : KARET<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-26,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rdf-030.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-030-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-030-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-030-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-030-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-030-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RDF 030,Rp 87.900,Rp 101.900,Rp 14.000,RDF 030,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - RNO 083 Murah,rno-083,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RNO 083 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RNO 083<br/>Warna : HITAM KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-26,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rno-083.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rno-083-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rno-083-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rno-083-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rno-083-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rno-083-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RNO 083,Rp 94.900,Rp 109.900,Rp 15.000,RNO 083,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - RDF 026 Murah,rdf-026,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RDF 026 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RDF 026<br/>Warna : HITAM<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : KARET<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-26,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rdf-026.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-026-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-026-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-026-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-026-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rdf-026-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RDF 026,Rp 87.900,Rp 101.900,Rp 14.000,RDF 026,Baru
+Jual Sandal Gunung / Hiking / Outdoor Pria - RLR 320 Murah,rlr-320,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sandal Gunung / Hiking / Outdoor Pria - RLR 320 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sandal Gunung Pria ini terbuat dari bahan WEBBING.<br/>Kode : RLR 320<br/>Warna : HITAM KOMBINASI<br/>Bahan : WEBBING<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : SPON<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-26,html,sandal-gunung-pria,raindoz,sandal-gunung-pria,raindoz,"Sandal Gunung Pria Bahan WEBBING, Ukuran 38 ~ 43, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rlr-320.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-320-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-320-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-320-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-320-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rlr-320-e.jpg,Sandal Gunung / Hiking / Outdoor Pria - RLR 320,Rp 87.900,Rp 101.900,Rp 14.000,RLR 320,Baru
